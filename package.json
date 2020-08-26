@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "name": "newsapi",
+  "version": "1.0.0",
+  "description": "creating newsapi",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "api"
+  },
+  "author": "poovizhi",
+  "license": "ISC"
+}
